@@ -1,0 +1,24 @@
+# Basic YAML Example
+
+# Top-level key-value pairs
+name: "John Doe"
+age: 30
+is_active: true
+
+# Nested objects
+address:
+  street: "123 Main St"
+  city: "Springfield"
+  zip_code: "12345"
+
+# Lists
+hobbies:
+  - "Reading"
+  - "Hiking"
+  - "Cooking"
+
+# Nested lists and objects
+education:
+  degrees:
+    - degree: "Bachelor of Science"
+      major

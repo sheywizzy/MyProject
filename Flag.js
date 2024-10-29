@@ -1,2 +1,3 @@
 const a = 50;
-const b = 100;
+const b = "Hi there"
+const d = 100;
